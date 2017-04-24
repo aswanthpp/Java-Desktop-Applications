@@ -152,7 +152,7 @@ body {
 /*========Heading Section======*/
 h1 {
 	 font-size: 120%;
-	 collor: red;
+	 color: red;
 }
 h2 {
 	font-size: 150%;
@@ -168,7 +168,7 @@ h2 {
 	transform: translateY(-50%);
 }
 
-h4 {
+h5 {
 	font-size: 110%;
 	text-align: center;
 	color: #e5e4d7;
