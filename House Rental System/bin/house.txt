@@ -1,0 +1,47 @@
+4
+
+100
+Apartment
+Surathkal
+30000.0
+false
+Yuvaraj
+8675958575
+
+25
+Apartment
+Mangalore
+20000.0
+false
+Rohit Sharma
+8547462771
+
+101
+2-bedroom house
+Surathkal
+12000.0
+true
+Varun Varma
+9480124872
+
+102
+3bhk
+Gandhinagar
+11000.0
+false
+Rohit varma
+9812488263
+
+1
+
+aswanth
+aswanth123
+aswanth1234
+1234567896
+101
+
+3
+
+Surathkal
+Gandhinagar
+Mangalore
